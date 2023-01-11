@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/effect-001/static/css/main.358bc6b4.css",
+    "main.js": "/effect-001/static/js/main.b8285364.js",
+    "static/js/787.87f191bc.chunk.js": "/effect-001/static/js/787.87f191bc.chunk.js",
+    "index.html": "/effect-001/index.html",
+    "main.358bc6b4.css.map": "/effect-001/static/css/main.358bc6b4.css.map",
+    "main.b8285364.js.map": "/effect-001/static/js/main.b8285364.js.map",
+    "787.87f191bc.chunk.js.map": "/effect-001/static/js/787.87f191bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.358bc6b4.css",
+    "static/js/main.b8285364.js"
+  ]
+}
